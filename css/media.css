@@ -1,0 +1,171 @@
+
+
+@media (max-width: 575.8px) {    
+    header {
+    
+        padding: 5px 0;
+    }
+    .menu ul li a {
+        padding: 0 !important;
+        padding-top: 5px !important;
+        padding-left: 7px !important;
+       
+    }
+    .logo {
+        width: 75%;
+    }
+    .menu ul li a:hover{      
+        transform: none;
+    }
+
+   /* banner sec  */
+
+   .b-image {     
+        margin-bottom: 0px; 
+        padding: 30px 40px 40px;
+    }
+    .b-text{
+        padding: 20px 0 30px;
+        text-align: center;
+    }
+    .bh1{
+        margin: 10px 0;        
+        padding: 0;
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .bp2{
+      
+        line-height: 26px;
+    }
+    .si-btn{
+        margin-left: 0;
+    }
+
+    /* course  */
+    .c-h1{
+        font-size: 30px;
+       
+        
+    }
+  
+    .tp-img {
+        padding: 0px 38px 25px;
+    }
+   
+    .ft-text {
+        padding-right: 0;
+    }
+ 
+    }
+    .ft-link{
+        margin-top: 25px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.8px){   
+    .menu-bar{
+        width: 50%;
+        float: left;
+    }
+    .menu ul li a {
+        padding: 0 !important;
+        padding-top: 5px !important;
+        padding-left: 7px !important;
+       
+    }
+    .si-btn{
+        float: right;
+        margin: auto;
+        
+    }
+    .menu ul li a:hover{      
+        transform: none;
+    }
+
+    .b-image {     
+        margin-bottom: 0px; 
+        padding: 30px 40px 40px;
+    }
+    .b-text{
+        padding: 20px 0 30px;
+        text-align: center;
+    }
+    .bh1{
+        font-size: 42px;
+        padding-right: 0;
+        line-height: 48px;
+    }
+  
+    /* banner sec  */
+
+    .b-image {     
+        margin-bottom: 0px; 
+        padding: 30px 40px 40px;
+    }
+    .b-text{
+        padding: 20px 0 30px;
+        text-align: center;
+    }
+    .bh1{
+        font-size: 40px;
+        padding-right: 0;
+    }
+    .footer-top{
+        text-align: center;
+    }
+   .ft-text{
+    margin-bottom: 30px;
+    padding: 10px 50px;
+   
+   }
+   
+}
+@media (min-width: 768px) and (max-width: 991.8px){   
+    .menu ul li a {
+        padding: 0 !important;
+        padding-top: 5px !important;
+        padding-left: 5px !important;
+       
+    }
+    .menu ul li a:hover{      
+        transform: none;
+    }
+    /* banner sec  */
+
+    .b-image {     
+        margin-bottom: 0px; 
+        padding: 30px 40px 40px;
+    }
+    .b-text{
+        padding: 20px 0 30px;
+        text-align: center;
+    }
+    .bh1{
+       
+        padding-right: 0;
+    }
+    .footer-top{
+        text-align: center;
+    }
+    .ft-text{
+        margin-bottom: 30px;
+        padding: 20px 80px;
+       
+       }
+   
+   
+   
+}
+@media (min-width: 992px) and (max-width: 1079.8x){ 
+  
+
+}
+@media (min-width: 1080px) and (max-width: 1199.8x){
+   
+
+}
+@media (min-width: 1400px) { 
+   
+
+}
