@@ -34,12 +34,11 @@ header{
     padding: 12px 0;
 }
 
-.cnav{}
+
 .nbtn:focus {
     box-shadow: 0 0 0 1px;
 }
-.logo{}
-.menu{}
+
 
 .menu ul li a{
     color: var(--c_bl)!important;
